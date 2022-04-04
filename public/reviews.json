@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Sabbir Mahmud",
+        "img": "https://cdn.discordapp.com/attachments/787202128799465512/960244319757955112/Picsart_22-04-02_20-45-02-991.jpg",
+        "profession": "CEO, Chipaholic Programmers",
+        "comment": "I went there today for the first time. Even though it is tiny, it is jam packed. Great staff. Will try the meat tomorrow. 💖",
+        "rating": 5.0
+    },
+    {
+        "id": 2,
+        "name": "Ayon Jodder",
+        "img": "https://scontent.fcgp7-1.fna.fbcdn.net/v/t1.6435-9/84328005_472764333343794_199818388464205824_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHSnqr-LmTWcq9eioLwiLMQbWSn9HAC6iVtZKf0cALqJSV71mqI1pTC-WRSsqB-o1Rl_k_HipSkBgkheBTUMwzd&_nc_ohc=lJ5JOcpcqy8AX8Q0Vgq&_nc_oc=AQkIAXRrijuGGa9MDTtRt5ECvDUNq7wXuggmGbK5qM9OSi_rnGg1xvDaDqkQpIy6e6g&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT_5JWvcwBdxwyIEpZC2A7p5UtID54Ek7FfJaPHifiPsqw&oe=6270BD83",
+        "profession": "COO, Chipaholic Programmers",
+        "comment": "Brilliant food. The quality of the beef steaks was immaculate. So well cooked to perfection. The sides and house special elevates the experience multiple fold. I would blindly recommend Bengal Meat to anyone in lookout for meat based meal💙",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "David Uncle",
+        "img": "https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/276097936_4962132923901567_4733052065658357793_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG0Pll37sHDe7FEe_HHfdp71N36lV3ye5zU3fqVXfJ7nIBJ8mAuNoz9r3eBBYYid3UFSnl1KFlY6ubyl1PClHrH&_nc_ohc=QDcfRR0VasAAX8CaXHT&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT-ZQW4iRIrNN_M-ik2YPZfppVnFvn4eG4QYNf9RcUa9Cg&oe=624EF6F5",
+        "profession": "Sous Chef, Mayer Doa Hotel & Restaurant",
+        "comment": "The food was amazing and their service was also warm! 💨",
+        "rating": 3.5
+    },
+    {
+        "id": 4,
+        "name": "Kabir Khan",
+        "img": "https://i.kym-cdn.com/entries/icons/facebook/000/018/655/image.jpg",
+        "profession": "Gynochologist, Kolikata Herbal Hospital Ltd.",
+        "comment": "Awesome food with huge dining spaces, great service & proper hygiene. Overall experience is 10 on 10. Been there for several times and definitely looking forward to go again and again. Most amazing thing is that they also have a little space for the kids to play. True family destination to enjoy. 💚👍👏",
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "Mir Hussain",
+        "img": "https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/277294558_296008549324555_6551673311614967786_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGCS70Kle_FA9vtry-LYjrNB3HUK-_dzFoHcdQr793MWsEnZoo25SICCgkYhboEvuWI9mHprFbrAypH5TUSghy8&_nc_ohc=wBvxXWOTPKwAX9jBAof&tn=2aoP0lu3AoNjKpy_&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT_t3EIYujqeS6p24Iq_EWXhvfMogc_3AuJpoHbNvUn3sQ&oe=6250B441",
+        "profession": "Paid Food Vlogger, I Live to Eat",
+        "comment": "Worst service ever! Waited 2 hours for the meat but they said they need more time! After this worst management I walkes away without buying meat! 👊",
+        "rating": 1.0
+    },
+    {
+        "id": 6,
+        "name": "Sourav Arefin",
+        "img": "https://scontent.fcgp7-1.fna.fbcdn.net/v/t1.6435-9/166554638_1191235521334843_6946793449723901526_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFcwBPY-U3pPvDRKHk7_4btqBqw4swLOJWoGrDizAs4lSokwdlgniqWwYB7MzdUgMy2y6pgSDbGwxA6fKZhdQw8&_nc_ohc=4cNKZlEitMgAX8nJZrL&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT91U9kBaxVrEt4C22GBUXCznomhQKikX-g-wBKnTktuKQ&oe=62727DB4",
+        "profession": "Manager, To To Company",
+        "comment": "Good environment and well behaved staffs. The steaks were really great. The ribs were one of the best. Loved it. 🍿",
+        "rating": 4.1
+    }
+]
